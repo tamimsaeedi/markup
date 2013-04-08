@@ -1,0 +1,17 @@
+IBMS Functional Requirement Specification and UI
+================================================
+In this project we have three main use cases, which they are consist of:
+1. Stock
+--------
+2. Consumption
+----------------
+3. Customers Account
+---------------------
+For presenting of these elements as responsively as possible and completely, we have designed a main UI and several user interfaces for each part.
+The main UI is composed of a tabbed system with the material list, but its main design will be done in the second version.
+![industries Accounting](/path/to/img.jpg "Optional title")
+Now, lest talk about main three functional requirements:
+##Stock, Material List and Sell Factor##
+***A: Material List:*** According to the needs, we decided to have the following points in the material list (Material Name, Material Unit, Material Base cost, Material sell cost).
+![Company things List](/path/to/img.jpg "Optional title")
+
